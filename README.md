@@ -1,6 +1,6 @@
 -  Hi, I’m @Paes1702
 -  I’m interested in Games, Music, Technology, Programming and learning; 
--  I’m currently learning C++;
+-  I’m currently learning Node JS;
 -  I’m looking to collaborate on any projects that look fun and interesting;
 -  How to reach me: email me (gaupaes@gmail.com);
 
